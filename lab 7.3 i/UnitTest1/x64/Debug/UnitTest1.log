@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\HP\source\repos\lab 7.3 i\lab 7.3 i\lab 7.3 i.cpp(30,38): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+  UnitTest1.vcxproj -> C:\Users\HP\source\repos\lab 7.3 i\x64\Debug\UnitTest1.dll
